@@ -1,0 +1,4 @@
+Image_ID,class,confidence,ymin,xmin,ymax,xmax,class_id,ImagePath
+ID_389f5087.jpg,fall_armyworm,1.0,875.0,391.0,1551.0,605.0,1,images/train/ID_389f5087.jpg
+ID_9b60524b.jpg,healthy,1.0,0.0,1361.0,2901.0,3456.0,0,images/train/ID_9b60524b.jpg
+ID_db6962b0.jpg,maize_streak_disease,1.0,546.0,307.0,4032.0,3024.0,2,images/train/ID_db6962b0.jpg
